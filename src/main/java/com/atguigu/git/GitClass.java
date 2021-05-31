@@ -6,5 +6,6 @@ public class GitClass {
         System.out.println("hello git");
         System.out.println("hello github");
         System.out.println("hello gitLab");
+        System.out.println("hello gitEE");
     }
 }
