@@ -9,5 +9,7 @@ public class GitClass {
         System.out.println("hello gitEE");
         System.out.println("master test");
         System.out.println("hot-fix test");
+        System.out.println("push test");
+
     }
 }
